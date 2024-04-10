@@ -9,6 +9,7 @@ menu: inteiro
 imc: real
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval ("Este projeto esta dentro do github!")
 escreval ("###PROGRAMA DE CÁLCULOS ###")
 escreval ("")
 
